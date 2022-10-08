@@ -1,1 +1,0 @@
-FROM dockercfg/alpine:vt
